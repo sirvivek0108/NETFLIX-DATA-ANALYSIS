@@ -12,3 +12,5 @@ NETFLIX DATA ANALYSIS BY USING  1.EXCEL
                                               IN OTT MARKETS.
 
                                             4. TO INCREASE REVENUE NETFLIX SHOULD CONCENTRATE MORE ON ASIAN AND AFRICAN MARKETS .  
+
+                                            5. ROMANCE IMDB RATINGS TENDS TO SATURATE OVER TIME,THE PSYCHOLOGISTS MUST FIND POSSIBLE REASON.
