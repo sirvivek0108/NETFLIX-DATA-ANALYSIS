@@ -14,3 +14,4 @@ NETFLIX DATA ANALYSIS BY USING  1.EXCEL
                                             4. TO INCREASE REVENUE NETFLIX SHOULD CONCENTRATE MORE ON ASIAN AND AFRICAN MARKETS .  
 
                                             5. ROMANCE IMDB RATINGS TENDS TO SATURATE OVER TIME,THE PSYCHOLOGISTS MUST FIND POSSIBLE REASON.
+                                            6. NO BIG DIFFERENCE  in imdb ratings between big stars movies and beginners
