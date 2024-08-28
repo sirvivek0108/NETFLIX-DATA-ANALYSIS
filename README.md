@@ -19,7 +19,7 @@ NETFLIX DATA ANALYSIS BY USING  1.EXCEL
                                             
                                             7.please check python file   for advanced mathematical analysis..
                                             
-                                            AUTHOR-SIRVIVEK0108
+                                            AUTHOR-SIRVIVEK0108..
                                             
 
 
